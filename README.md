@@ -1,7 +1,7 @@
 # The Bone Yard -- backend-repo
 
 ## Purpose
-This application serves as an API producer for the main applicaiton. [The front-end can be found here](https://github.com/the-bone-yard/frontend). This repo is meant to serve as the backend portion of The Bone Yard application. 
+This application serves as an API producer for the main applicaiton. [The front-end can be found here](https://github.com/the-bone-yard/frontend). This repo is meant to serve as the backend portion of The Bone Yard application.
 
 ## Contributors
 
@@ -68,7 +68,6 @@ The following configurations have been added to the project;
 
 ## To-Do
 - ~~Switch projet from using SQLite to Postgresql(?)~~
-
 
 
 
