@@ -1,7 +1,7 @@
 # The Bone Yard -- backend-repo
 
 ## Purpose
-This application serves as an API producer for the main applicaiton. [The front-end can be found here](https://github.com/travisgm92/frontend). This repo is meant to serve as the backend portion of The Bone Yard application. The entire app can be [found here.](https://the-bone-yard-fe.herokuapp.com/#/)
+This application serves as an API producer for the main applicaiton. [The front-end can be found here](https://github.com/TravisGM92/boneyard-frontend). This repo is meant to serve as the backend portion of The Bone Yard application. The entire app can be [found here.](https://the-bone-yard-fe.herokuapp.com/#/)
 
 ## Contributors
 
